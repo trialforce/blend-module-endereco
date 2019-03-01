@@ -2,7 +2,7 @@
 
 Primeiro módulo oficial do framework web Blend, este modulo cria modelos e páginas para gerenciar de endereços brasileiros (pais, uf, cidade, bairro, cep).
 
-Está 100% funciona para estados e cidades brasileiras.
+Está 100% funcionando para estados e cidades brasileiras.
 
 Já vem com lista de paises, cidades e estados atualizados (já com geoposicionamento).
 
@@ -11,7 +11,7 @@ Já vem com lista de paises, cidades e estados atualizados (já com geoposiciona
 
 2 - Criar classe genérica de endereço para interagir com webservices.
 
-3 - Fazer a consulta de cep via webservice funcionar voltar a funcionar.
+3 - Fazer a consulta de cep via webservice voltar a funcionar.
 
 4 - Terminar a integração com Google Maps para obter geoposicionamento atualizado.
 
@@ -19,4 +19,4 @@ Já vem com lista de paises, cidades e estados atualizados (já com geoposiciona
 
 6 - Exemplos.
 
-7 - Tester unitários.
+7 - Testes unitários.
